@@ -3,6 +3,12 @@
 A car dealership website made with Python (Django), JavaScript (Node.js), HTML, CSS, Docker.
 
 
+The general idea is to build a website that allows users to select one of Best Car's dealerhips (a fictional company) in the US to view other users' reviews of the dealership's cars, as well as submit their own reviews. The site also needed basic functionality such as a navigation bar and static "about" and "contact" pages. The website had to be built with the Python-Django full stack web development framework and be deployed with Red Hat Openshift/Kubernetes on the IBM Cloud.
+
+![capstone-project-model](https://github.com/ry4n-s/Best-Cars-Dealership-Website/assets/132171741/5a80f98d-bd16-42a2-8aa1-9f8147b6664a)
+
+
+
 Able to find 50 dealerships, with the ability to filter by state.
 
 ![dealerships_filter](https://github.com/ry4n-s/Best-Cars-Dealership-Website/assets/132171741/41fef69c-2b79-4ca2-b351-36802745ef75)
